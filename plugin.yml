@@ -1,0 +1,7 @@
+name: "WorldEdit"
+description: "Edita tus mundos con facilidad y buen rendimiento."
+authors:
+  - "xChillz"
+api: "2.0.0"
+version: "1.0-dev"
+main: 'dev\kinexa\worldedit\WorldEditPlugin'

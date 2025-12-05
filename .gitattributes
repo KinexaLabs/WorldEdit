@@ -1,0 +1,21 @@
+* text eol=lf
+*.php text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.phar binary
+*.ttf binary
+*.otf binary
+*.ico binary
+*.bin binary
